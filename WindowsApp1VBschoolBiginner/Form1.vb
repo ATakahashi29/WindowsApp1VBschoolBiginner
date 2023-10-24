@@ -51,4 +51,24 @@
         Dim newForm11 As New Form11()
         newForm11.Show()
     End Sub
+
+    Private Sub Button13_Click(sender As Object, e As EventArgs) Handles Button13.Click
+        Dim newForm12 As New Form12()
+        newForm12.Show()
+    End Sub
+
+    Private Sub Button14_Click(sender As Object, e As EventArgs) Handles Button14.Click
+        Dim newForm13 As New Form13()
+        newForm13.Show()
+    End Sub
+
+    Private Sub Button15_Click(sender As Object, e As EventArgs) Handles Button15.Click
+        Dim newForm14 As New Form14()
+        newForm14.Show()
+    End Sub
+
+    Private Sub Button16_Click(sender As Object, e As EventArgs) Handles Button16.Click
+        Dim newForm15 As New Form15()
+        newForm15.Show()
+    End Sub
 End Class
