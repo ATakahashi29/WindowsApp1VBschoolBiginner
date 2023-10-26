@@ -81,88 +81,124 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form10.Designer.vb">
-      <DependentUpon>Form10.vb</DependentUpon>
+    <Compile Include="Frm14.Designer.vb">
+      <DependentUpon>Frm14.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form10.vb">
+    <Compile Include="Frm14.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form11.Designer.vb">
-      <DependentUpon>Form11.vb</DependentUpon>
+    <Compile Include="Frm13.Designer.vb">
+      <DependentUpon>Frm13.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form11.vb">
+    <Compile Include="Frm13.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form12.Designer.vb">
-      <DependentUpon>Form12.vb</DependentUpon>
+    <Compile Include="Frm13_2.Designer.vb">
+      <DependentUpon>Frm13_2.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form12.vb">
+    <Compile Include="Frm13_2.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form13.Designer.vb">
-      <DependentUpon>Form13.vb</DependentUpon>
+    <Compile Include="Frm14_2.Designer.vb">
+      <DependentUpon>Frm14_2.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form13.vb">
+    <Compile Include="Frm14_2.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form14.Designer.vb">
-      <DependentUpon>Form14.vb</DependentUpon>
+    <Compile Include="Frm15.Designer.vb">
+      <DependentUpon>Frm15.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form14.vb">
+    <Compile Include="Frm15.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form15.Designer.vb">
-      <DependentUpon>Form15.vb</DependentUpon>
+    <Compile Include="Frm16.Designer.vb">
+      <DependentUpon>Frm16.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form15.vb">
+    <Compile Include="Frm16.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form2.Designer.vb">
-      <DependentUpon>Form2.vb</DependentUpon>
+    <Compile Include="Frm16_2.Designer.vb">
+      <DependentUpon>Frm16_2.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form2.vb">
+    <Compile Include="Frm16_2.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form3.Designer.vb">
-      <DependentUpon>Form3.vb</DependentUpon>
+    <Compile Include="Frm17.Designer.vb">
+      <DependentUpon>Frm17.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form3.vb">
+    <Compile Include="Frm17.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form4.Designer.vb">
-      <DependentUpon>Form4.vb</DependentUpon>
+    <Compile Include="Frm17_2.Designer.vb">
+      <DependentUpon>Frm17_2.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form4.vb">
+    <Compile Include="Frm17_2.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form5.Designer.vb">
-      <DependentUpon>Form5.vb</DependentUpon>
+    <Compile Include="Frm11.Designer.vb">
+      <DependentUpon>Frm11.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form5.vb">
+    <Compile Include="Frm11.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form6.Designer.vb">
-      <DependentUpon>Form6.vb</DependentUpon>
+    <Compile Include="Frm9.Designer.vb">
+      <DependentUpon>Frm9.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form6.vb">
+    <Compile Include="Frm9.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form7.Designer.vb">
-      <DependentUpon>Form7.vb</DependentUpon>
+    <Compile Include="Frm2.Designer.vb">
+      <DependentUpon>Frm2.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form7.vb">
+    <Compile Include="Frm2.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form8.Designer.vb">
-      <DependentUpon>Form8.vb</DependentUpon>
+    <Compile Include="Frm19.Designer.vb">
+      <DependentUpon>Frm19.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form8.vb">
+    <Compile Include="Frm19.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form9.Designer.vb">
-      <DependentUpon>Form9.vb</DependentUpon>
+    <Compile Include="Frm18.Designer.vb">
+      <DependentUpon>Frm18.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form9.vb">
+    <Compile Include="Frm18.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm5.Designer.vb">
+      <DependentUpon>Frm5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm6.Designer.vb">
+      <DependentUpon>Frm6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm10.Designer.vb">
+      <DependentUpon>Frm10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm11_2.Designer.vb">
+      <DependentUpon>Frm11_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm11_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm11_3.Designer.vb">
+      <DependentUpon>Frm11_3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm11_3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm12.Designer.vb">
+      <DependentUpon>Frm12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm12.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -185,47 +221,65 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form10.resx">
-      <DependentUpon>Form10.vb</DependentUpon>
+    <EmbeddedResource Include="Frm14.resx">
+      <DependentUpon>Frm14.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form11.resx">
-      <DependentUpon>Form11.vb</DependentUpon>
+    <EmbeddedResource Include="Frm13.resx">
+      <DependentUpon>Frm13.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form12.resx">
-      <DependentUpon>Form12.vb</DependentUpon>
+    <EmbeddedResource Include="Frm13_2.resx">
+      <DependentUpon>Frm13_2.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form13.resx">
-      <DependentUpon>Form13.vb</DependentUpon>
+    <EmbeddedResource Include="Frm14_2.resx">
+      <DependentUpon>Frm14_2.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form14.resx">
-      <DependentUpon>Form14.vb</DependentUpon>
+    <EmbeddedResource Include="Frm15.resx">
+      <DependentUpon>Frm15.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form15.resx">
-      <DependentUpon>Form15.vb</DependentUpon>
+    <EmbeddedResource Include="Frm16.resx">
+      <DependentUpon>Frm16.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.vb</DependentUpon>
+    <EmbeddedResource Include="Frm16_2.resx">
+      <DependentUpon>Frm16_2.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form3.resx">
-      <DependentUpon>Form3.vb</DependentUpon>
+    <EmbeddedResource Include="Frm17.resx">
+      <DependentUpon>Frm17.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form4.resx">
-      <DependentUpon>Form4.vb</DependentUpon>
+    <EmbeddedResource Include="Frm17_2.resx">
+      <DependentUpon>Frm17_2.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form5.resx">
-      <DependentUpon>Form5.vb</DependentUpon>
+    <EmbeddedResource Include="Frm11.resx">
+      <DependentUpon>Frm11.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form6.resx">
-      <DependentUpon>Form6.vb</DependentUpon>
+    <EmbeddedResource Include="Frm18.resx">
+      <DependentUpon>Frm18.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form7.resx">
-      <DependentUpon>Form7.vb</DependentUpon>
+    <EmbeddedResource Include="Frm9.resx">
+      <DependentUpon>Frm9.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form8.resx">
-      <DependentUpon>Form8.vb</DependentUpon>
+    <EmbeddedResource Include="Frm2.resx">
+      <DependentUpon>Frm2.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form9.resx">
-      <DependentUpon>Form9.vb</DependentUpon>
+    <EmbeddedResource Include="Frm19.resx">
+      <DependentUpon>Frm19.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm5.resx">
+      <DependentUpon>Frm5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm6.resx">
+      <DependentUpon>Frm6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm10.resx">
+      <DependentUpon>Frm10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm11_2.resx">
+      <DependentUpon>Frm11_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm11_3.resx">
+      <DependentUpon>Frm11_3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm12.resx">
+      <DependentUpon>Frm12.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
